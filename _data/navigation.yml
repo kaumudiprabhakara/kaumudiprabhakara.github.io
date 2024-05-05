@@ -1,0 +1,67 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Research Interests"
+  url: "/research-interests/"
+  side: left
+
+- title: Publications
+  url: "/publications/"
+  side: left
+
+#- title: "Templates"
+#  url: "/design/"
+#  side: left
+#  dropdown:
+#  - title: "Grid & Colors"
+#    url: "/design/grid/"
+#  - title: "Typography"
+#    url: "/design/typography/typography/"
+#  - title: "Page/Post"
+#    url: "/design/page/"
+#  - title: "Post-Left-Sidebar"
+#    url: "/design/post-left-sidebar/"
+#  - title: "Post-Right-Sidebar"
+#    url: "/design/post-right-sidebar/"
+#  - title: "Page Full-Width"
+#    url: "/design/page-fullwidth/"
+#  - title: "Blog-Page"
+#    url: "/blog/"
+#  - title: "Video"
+#    url: "/design/video/"
+#  - title: "Gallery"
+#    url: "/design/gallery/"
+#  - title: "Portfolio"
+#    url: "/design/portfolio/"
+
+
+
+- title: Teaching
+  url: "/teaching/"
+  side: left
+
+- title: Community engagement
+  url: "/outreach/"
+  side: left
+
+- title: Awards and grants
+  url: "/grants/"
+  side: left
+
+- title: Talks
+  url: "/talks/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+
+- title: News
+  url: "/news/"
+  side: left
+
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
