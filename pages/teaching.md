@@ -7,6 +7,10 @@ permalink: "/teaching/"
 header:
    image_fullwidth: "../images/slot.jpg"
 ---
+2025
+
+Designed and taught an intensive and hand-on course on Fundamentals of Biological Data Analysis. More details on the course here: https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis
+
 2022
 
 I attended a 4 week workshop conducted by University of Chicago's Chicago Center for Teaching and Learning on the topic "Fundamentals of Teaching Series: Science teacher's toolkit". This workshop covered the topics of "How to motivate students and activate prior knowledge", "How to plan lessons and write SMART learning objectives", "How to foster an active and inclusive classroom environment" and "How to assess student achievement and provide feedback".
