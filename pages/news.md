@@ -6,7 +6,8 @@ header:
 permalink: "/news/"
 ---
 **Master project**
- From May 2025, I am supervising a student from CAU Kiel for her Masters' project. She is working on the exciting topic of Ginger Beer Plants. Stay tuned to learn more about our results! 
+
+ Since May 2025, I am supervising a student's Masters thesis. She is working on the exciting topic of Ginger Beer Plant. Stay tuned to learn more about our results! 
 
 **Website online!**
 
