@@ -5,9 +5,6 @@ header:
    image_fullwidth: "../images/ploen.jpg"
 permalink: "/news/"
 ---
-**Master project**
-
- Since May 2025, I am supervising a student's Masters thesis. She is working on the exciting topic of Ginger Beer Plant. Stay tuned to learn more about our results! 
 
 **Website online!**
 
