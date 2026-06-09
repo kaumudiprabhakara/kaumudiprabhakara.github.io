@@ -8,6 +8,7 @@ header:
 ---
 
 This is a fantastic book. If you’re interested in biology, you’ll learn a lot. If you’re not interested, you will become interested and learn a lot! 
+
 Siddhartha Mukherjee takes the reader on a riveting journey – starting from Mendel and Darwin to Dobzhanky’s ideas, the discovery of the DNA and the race to find its structure to chromosomes, linkage and recombination, the central dogma to epigenetics, sequencing DNA to the human genome project, gene editing to CRISPR/Cas9 and sexuality to free-will.
 
 What makes this book especially interesting is that these concepts are not only beautifully explained, but are linked to world events such as the horrors of eugenics, the  excitement and anticipation of the announcement of the human genome, and the first cases of gene therapy. It describes the stories behind the achievements, connecting them to the lives of the scientists involved – their successes and failures, their hopes and beliefs, their ups and downs, proving that science is a very human endeavor. We readers, can’t help but get involved in the narration and follow it with palpable excitement.
