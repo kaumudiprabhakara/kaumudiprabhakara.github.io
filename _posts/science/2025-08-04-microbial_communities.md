@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  "[Book Review: The Gene, an intimate history by Siddhartha Mukherjee](https://en.wikipedia.org/wiki/The_Gene:_An_Intimate_History)"
+title:  "Book Review: The Gene, an intimate history by Siddhartha Mukherjee"
 category: Book Reviews
 
 header:
     image_fullwidth: "../../images/belur.jpg"
 ---
 
-This is a fantastic book. If you’re interested in biology, you’ll learn a lot. If you’re not interested, you *will* become interested *and* learn a lot! 
+[This](https://en.wikipedia.org/wiki/The_Gene:_An_Intimate_History) is a fantastic book. If you’re interested in biology, you’ll learn a lot. If you’re not interested, you *will* become interested *and* learn a lot! 
 
 Siddhartha Mukherjee takes the reader on a riveting journey – starting from Mendel and Darwin to Dobzhanky’s ideas, the discovery of the DNA and the race to find its structure to chromosomes, linkage and recombination, the central dogma to epigenetics, sequencing DNA to the human genome project, gene editing to CRISPR/Cas9 and sexuality to free-will.
 
