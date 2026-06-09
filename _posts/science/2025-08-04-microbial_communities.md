@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Book Review: The Gene, an intimate history by Siddhartha Mukherjee"
+title:  "[Book Review: The Gene, an intimate history by Siddhartha Mukherjee](https://en.wikipedia.org/wiki/The_Gene:_An_Intimate_History)"
 category: Book Reviews
 
 header:
