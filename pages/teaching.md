@@ -7,7 +7,7 @@ permalink: "/teaching/"
 header:
    image_fullwidth: "../images/slot.jpg"
 ---
-2025 - 2026 Supervised the masters thesis of Pedra Nyakuni from CAU Kiel on the topic of the Ginger Beer Plant. 
+May 2025 - April 2026 Supervised the masters thesis of Pedra Nyakuni from CAU Kiel on the topic of the Ginger Beer Plant. 
 
 January 2025
 
