@@ -5,6 +5,11 @@ header:
    image_fullwidth: "../images/ploen.jpg"
 permalink: "/news/"
 ---
+**Paper accepted**
+On June 4 2026, our paper on how diverse communities assemble on glucose or cellulose was accepted for publication at Environmental Microbiology.
+
+**Masters student defends her thesis**
+On 21 April 2026, Pedra Nyakuni, a masters' student from CAU Kiel, who did her masters thesis project under my supervision, successfully defended her thesis. Congratulations Pedra!
 
 **Website online!**
 
