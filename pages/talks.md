@@ -7,7 +7,7 @@ header:
    image_fullwidth  : "../images/chicago.jpg"
 permalink           : "/talks/"
 ---
-
+**2026** Presented a talk at the Women in Evolutionary Biology 2 conference at the Max Planck Institute for Evolutionary Biology.
 
 **2022**
 
