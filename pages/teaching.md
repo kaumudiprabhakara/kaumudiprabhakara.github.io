@@ -7,7 +7,9 @@ permalink: "/teaching/"
 header:
    image_fullwidth: "../images/slot.jpg"
 ---
-2025
+2025 - 2026 Supervised the masters thesis of Pedra Nyakuni from CAU Kiel on the topic of the Ginger Beer Plant. 
+
+January 2025
 
 Designed and taught an intensive and hand-on course on Fundamentals of Biological Data Analysis. More details on the course here: https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis
 
