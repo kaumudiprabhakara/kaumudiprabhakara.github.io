@@ -1,15 +1,11 @@
-    ---
-    layout: page
-    title:  "Book Review: Klara and the Sun by Kazuo Ishiguro"
-    category: Book Reviews
+---
+layout: page
+title:  "Book Review: Klara and the Sun by Kazuo Ishiguro"
+category: Book Reviews
 
-    header:
-      image_fullwidth: "../../images/belur.jpg"
-    ---
-
-
-
-Book review: Klara and the Sun by Kazuo Ishiguro
+header:
+    image_fullwidth: "../../images/belur.jpg"
+---
 
 While visiting the Nobel Prize Museum in Stockholm, I saw an interesting display of a floating woman’s statue, dominating over other displays on a table. Intrigued, I read its plaque – it was Klara the AF, based on the novel “Klara and the Sun” by Kazuo Ishiguro, who had won the Nobel Prize in Literature in 2017. The plaque went on to inform me that the novel was about AI and consciousness. The premise sounded interesting – I went to the gift shop and bought the book. 
 
