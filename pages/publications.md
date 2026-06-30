@@ -10,6 +10,9 @@ permalink           : "/publications/"
 
 [ORCiD](https://orcid.org/0000-0002-7553-6577){:target="_blank"}
 
+2026
+1. [Diverse Microbial Communities Assemble on Both Recalcitrant and Labile Carbon Sources,](https://doi.org/10.1111/1462-2920.70351){:target="_blank"} **K.H.Prabhakara**, Y. Zhao, K.Ullrich, A.D. Farr, P.B. Rainey, Environmental Microbiology 28 (7), e70351 2026
+
 2023
 1. [Algae drive convergent bacterial community assembly at low dilution frequency,](https://doi.org/10.1016/j.isci.2023.106879){:target="_blank"} **K.H Prabhakara**, S Kuehn, iScience 26 (6) 106879, June 16, 2023
 
