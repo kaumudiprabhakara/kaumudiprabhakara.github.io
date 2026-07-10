@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Book Review: The Gene, an intimate history by Siddhartha Mukherjee"
+title:  "Book Review: Old Babes in the Wood, by Margaret Atwood"
 category: Book Reviews
 
 header:
