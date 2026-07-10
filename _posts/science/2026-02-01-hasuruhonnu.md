@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Book Review: Hasuru Honnu, by B.G.L. Swamy"
+title:  "Book Review: Hasuru Honnu by B.G.L. Swamy"
 category: Book Reviews
 
 header:
