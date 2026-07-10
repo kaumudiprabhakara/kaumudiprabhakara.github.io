@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Book Review: Old Babes in the Wood, by Margaret Atwood"
+title:  "Book Review: Old Babes in the Wood by Margaret Atwood"
 category: Book Reviews
 
 header:
