@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Book Review: Entangled Life by Merline Sheldrake"
+title:  "Book Review: Entangled Life by Merlin Sheldrake"
 category: Book Reviews
 
 header:
