@@ -1,0 +1,25 @@
+---
+layout: page
+title:  "Book Review: Helgoland by Carlo Rovelli"
+category: Book Reviews
+
+header:
+    image_fullwidth: "../../images/belur.jpg"
+---
+On the cover of this book, Dr. Barrett is quoted to say she read this book in one sitting. My own experience was quite different. This book pleasurably challenged me, a lapsed physicist. Like Rovelli’s “good friend Lee”, I spent considerable time staring at blank walls trying to wrap my head around the ideas presented in the book.
+
+The book starts dramatically on the “barren and wind-battered North Sea island of Helgoland. The dramatics are well justified: Werner Heisenberg formulated his ideas of quantum physics here - ideas that shook the world. Rovelli eloquently outlines the bizarre nature of Heisenberg’s ideas, highlighting physicists’ amazement and shock as their classical view of the world crumbled around them.
+
+Remote Helgoland is an apt place for such a monumental upheaval of ideas. Visitors today travel for hours to reach by ferry, warned that in bad weather, supply ferries wouldn't run, and they may not get groceries. The dramatic red cliffs contrast beautifully with the clear blue sea and the beautiful white northern Gannets that nest on them in June. Hundreds of seals bask on the large beaches. The island itself is tiny - one can walk all around it in half a day. A large part of the cliffs was destroyed in Operation Big Bang - a controlled detonation of about 7000 tons of world war 2 ammunition - by the British after the war ended. I’m not sure if the author intended it, but to me, Helgoland could be a metaphor for quantum physics - dramatic, beautiful, based on few tenets, and arising from holes left by what was thought to be a solid foundation. 
+
+I breezed through the first few chapters, nostalgic about my physics-student days. These chapters describe the basics of quantum theory, the experiments that necessitated it, and the struggles of scientists to come to terms with it. Although I had learnt about the concepts described here, such as Schrödinger’s wave equations, Born’s interpretation of Schrödinger’s wave functions, and the wave particle duality, I was fascinated to read the context of these developments and the feverish pitch of scientific emotions of the people behind them - like a thrilling play. 
+
+Rovelli does a wonderful job conveying the unreal and magic-like feeling of one of the most rigorously quantitative fields of study. Most of the book is devoted to the consequences of Heisenberg’s pioneering work and what it means to our understanding of the world; how scientists are still grappling with the implications of the theory. Rovelli, himself a proponent of the relational interpretation of quantum mechanics, is fair enough to devote one chapter to other interpretations, although I would have appreciated a little more explanation about why he believes they don’t quite make the cut. 
+
+Topics that were new to me, like quantum entanglement and the different interpretations of quantum mechanics needed a sizable contemplation on my part. Questions bounced around in my head and I had to go back and forth in the book to resolve them. This is not because of the writing style, but rather because of the complexity of the topic. Rovelli has done an excellent job of breaking up these topics into bite sized chunks and explaining them in detail. However, I imagine for someone completely unfamiliar with quantum theory, it will be a hard (but worthwhile) read. 
+
+Despite never being particularly interested in philosophy, I was quite drawn by Rovelli’s attempts to consolidate quantum theory with how we view the world. I learnt about Ernst Mach and his significant influence on quantum physics, about how the Buddhist philosopher Nagarjuna’s ideas resonate with the relational interpretation and how it connects to Aleksandr Bogdanov’s Bolshevik philosophies! For someone without any background in philosophy, this book is a fantastic introduction.
+
+Towards the end of the book, Rovelli proposes that our altered view of the world - thanks to quantum theory - can have implications in how we ask questions in scientific disciplines such as biology (and is simultaneously dismissive of “quantum medicine” and “quantum spiritualism” and quantum effects on memory and so on.) He suggests combining relational interpretation and evolution - two cataclysmic topics in their respective fields. He also recommends using the new reality suggested by quantum theory to “... dispel the myth of a radical difference between the mental world and the physical world”. I eagerly look forward to progress in evolution and neuroscience based on these novel synergies. 
+
+This is a beautifully written book. It is the kind of book you'd want to read again and again and think deeply about. Rovelli helpfully appends notes for those who want to dig deeper. The ideas are profound, far-reaching and world-altering. Erica Segre and Simon Carnell have perfectly executed the job of translating it from Italian to English. A must read for everyone. 
