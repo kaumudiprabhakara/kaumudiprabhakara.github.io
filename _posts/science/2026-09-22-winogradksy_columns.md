@@ -106,6 +106,7 @@ I did a bit of digging and found a paper that suggested adding diatomaceous eart
   <img src="../../images/IMG_20260623_164755857_HDR.jpg" alt="Third attempt - Day 0 part 2">
   <figcaption>Third attempt - Day 0 - part 1 </figcaption>
 </figure>
+
 **The open day**
 We had a poster with all the relevant information in German including a repurposed figure from HHMI’s teaching platform (after obtaining their permission) to explain the layers. Additionally, I had printed out a few pictures of the second try as the colors changed with time. We had a brief write-up about Winogradsky. Finally, we made a few 3D printed models of glucose and cellulose structures to show how glucose (here we displayed a commonly available glucose packet) and cellulose (here we simply displayed paper) are related. With a ruler to show how small a millimeter is (to say that microbes are 1000 times smaller) and plastic bottles with their necks sawed off, we were ready to tell the visitors about these columns. 
 
