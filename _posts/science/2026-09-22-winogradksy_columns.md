@@ -55,37 +55,37 @@ For our second try, we purchased tissue culture bottles - narrow and tall, with 
 </figure>
 
 <figure>
-  <img src="../../images/trial2_20260609(2).jpg" alt="Second attempt - Day 19">
+  <img src="../../images/trial2_20260609 (2).jpg" alt="Second attempt - Day 19">
   <figcaption>Second attempt - Day 19: With added caclium chloride. Spatial structures formed.</figcaption>
 </figure>
 
 <figure>
-  <img src="../../images/trial2_20260609(3).jpg" alt="Second attempt - Day 19">
+  <img src="../../images/trial2_20260609 (3).jpg" alt="Second attempt - Day 19">
   <figcaption>Second attempt - Day 19: With added copper sulphate. Blue color developed over time (note it wasn't there initially).</figcaption>
 </figure>
 
 <figure>
-  <img src="../../images/trial2_20260609(4).jpg" alt="Second attempt - Day 19">
+  <img src="../../images/trial2_20260609 (4).jpg" alt="Second attempt - Day 19">
   <figcaption>Second attempt - Day 19: Cellulose in M9; turned a deep red. </figcaption>
 </figure>
 
 <figure>
-  <img src="../../images/trial2_20260609(5).jpg" alt="Second attempt - Day 19">
+  <img src="../../images/trial2_20260609 (5).jpg" alt="Second attempt - Day 19">
   <figcaption>Second attempt - Day 19: Glucose in M9; turned a dirty brown. </figcaption>
 </figure>
 
 <figure>
-  <img src="../../images/trial2_20260609(6).jpg" alt="Second attempt - Day 19">
+  <img src="../../images/trial2_20260609 (6).jpg" alt="Second attempt - Day 19">
   <figcaption>Second attempt - Day 19: Cellulose in lake water; patches of colors and structure.</figcaption>
 </figure>
 
 <figure>
-  <img src="../../images/trial2_20260609(7).jpg" alt="Second attempt - Day 19">
+  <img src="../../images/trial2_20260609 (7).jpg" alt="Second attempt - Day 19">
   <figcaption>Second attempt - Day 19: Glucose in lake water more uniform and less colorful than with cellulose.</figcaption>
 </figure>
 
 <figure>
-  <img src="../../images/trial2_20260609(8).jpg" alt="Second attempt - Day 19">
+  <img src="../../images/trial2_20260609 (8).jpg" alt="Second attempt - Day 19">
   <figcaption>Second attempt - Day 19: Just lake water, with no additives. </figcaption>
 </figure>
 
