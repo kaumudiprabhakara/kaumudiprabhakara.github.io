@@ -108,6 +108,7 @@ I did a bit of digging and found a paper that suggested adding diatomaceous eart
 </figure>
 
 **The open day**
+
 We had a poster with all the relevant information in German including a repurposed figure from HHMI’s teaching platform (after obtaining their permission) to explain the layers. Additionally, I had printed out a few pictures of the second try as the colors changed with time. We had a brief write-up about Winogradsky. Finally, we made a few 3D printed models of glucose and cellulose structures to show how glucose (here we displayed a commonly available glucose packet) and cellulose (here we simply displayed paper) are related. With a ruler to show how small a millimeter is (to say that microbes are 1000 times smaller) and plastic bottles with their necks sawed off, we were ready to tell the visitors about these columns. 
 
 The visitors were quite amazed at how a simple experiment can demonstrate so much. Kids and adults alike loved the colors and learning about microbial communities. People took pictures of our columns and the poster. The most common question was what we learn from it. A lot of course, as we were happy to explain - (1) how microbial communities assemble, the rules and (2) we can enrich for microbes that are capable of consuming specific chemicals, a fact that can be leveraged for bioremediation. 
