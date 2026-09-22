@@ -113,6 +113,31 @@ The visitors were quite amazed at how a simple experiment can demonstrate so muc
 
 It was a long day, but it was good to interact with the public and explain how cool microbial communities are. I’m particularly proud that I managed to convey all this in German! 
 
+<figure>
+  <img src="../../images/Zn.jpg" alt="Zn">
+  <figcaption>With Zinc chloride</figcaption>
+</figure>
+
+<figure>
+  <img src="../../images/only_lakewater.jpg" alt="only_lakewater">
+  <figcaption>Only lake water </figcaption>
+</figure>
+
+<figure>
+  <img src="../../images/KI.jpg" alt="KI">
+  <figcaption>With Potassium iodide </figcaption>
+</figure>
+
+<figure>
+  <img src="../../images/M9_cellulose.jpg" alt="M9_cellulose">
+  <figcaption>Cellulose, in M9 </figcaption>
+</figure>
+
+<figure>
+  <img src="../../images/MgCl2.jpg" alt="MgCl2">
+  <figcaption> With Magnesium chloride </figcaption>
+</figure>
+
 *Notes for the future*
 
 The colors seemed to peak after a month. So it is best to start about a month before the day of the exhibition. 
